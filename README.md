@@ -68,7 +68,8 @@ in my case that is "rx.unmineable.com:3333" paste that in url section in your co
 *STEP 9:* Save the config file. open terminal in that folder(xmrig/build) and run `./xmrig` command.
 
 
- *** ...........................................................TDAAAAAA...........................................................***
+ ***...........................................................TDAAAAAA...........................................................***
+ 
 you have just started making money.
 
 
