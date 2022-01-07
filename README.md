@@ -1,4 +1,4 @@
-# cpu mining made easy
+# CPU mining made easy
 Repository for making CPU mining easier to all.
 
 This Mining Procedure is based on CPU (RandomX algorithm) using xmrig miner. (Ubuntu 20 is used for this tutorial)
