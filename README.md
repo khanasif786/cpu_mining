@@ -13,7 +13,7 @@ This setup assumes that you have already installed git. if not use this command:
 sudo apt-get install git
 ```
 
-Istalling dependencies:
+Installing dependencies:
 
 ```
 sudo apt-get install build-essential cmake libuv1-dev libssl-dev libhwloc-dev
