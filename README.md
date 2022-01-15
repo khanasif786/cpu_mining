@@ -39,13 +39,13 @@ if you are a beginner than follow below procedure and only refer my config.json 
 This file is currently set to mine dogecoin in my wallet using cpu and also only 2 logical cores are used in my case. 
 Changes in this file that have to be done depends on your choice and cpu.
 
-You have to generate your own json file to do this follow this procedure:
+You have to generate your own json file, To do this follow this procedure:
 
 *STEP 1:* Go to [xmrig wizard](https://xmrig.com/wizard).
 
 *STEP 2:* Click New configuration -> add pool -> select your pool website.
 
-`NOTE: if your custom pool website is not listed just click any one of them and proceed.I am also using unminable.com that is also not present there.`
+`NOTE: if your custom pool website is not listed just click any one of them and proceed. I am also using unminable.com that is also not present there.`
 
 *STEP 3:* In backends select CPU.
 
@@ -68,11 +68,9 @@ in my case that is "rx.unmineable.com:3333" paste that in url section in your co
 *STEP 9:* Save the config file. open terminal in that folder(xmrig/build) and run `./xmrig` command.
 
 
- ***...........................................................TDAAAAAA...........................................................***
+ ***..............................................................TDAAAAAA..............................................................***
  
 you have just started making money.
-
-
 
 
 ## Help section
