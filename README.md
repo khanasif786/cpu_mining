@@ -33,6 +33,13 @@ cmake ..
 make -j$(nproc)
 ```
 
+NOTE: If you are getting ghostrider error than use cmake and make like this
+
+```
+cmake .. -DWITH_GHOSTRIDER=OFF
+make -j$(nproc)
+```
+
 After succesfully building the code just find config.json file in this repository.
 This is just to show you how my json file looks like. ( My json is so complex because during mining xmrig writes many default instructions to json
 if you are a beginner than follow below procedure and only refer my config.json in case of issues).
